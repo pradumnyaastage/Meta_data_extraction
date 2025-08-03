@@ -67,6 +67,13 @@ python model/evaluate.py
 
 ---
 
+##  Runn Inference.py
+```bash
+python -m src.inference 
+
+Then run python api/app.py
+```
+
 ##  Run the API
 
 ```bash
