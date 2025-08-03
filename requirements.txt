@@ -1,0 +1,7 @@
+transformers
+datasets
+fastapi
+uvicorn
+pytesseract
+python-docx
+pillow
